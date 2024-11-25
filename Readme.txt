@@ -17,7 +17,7 @@ The **Plan.docx** outlines the action plan for the project.
 
 Unstructure_Data_Pipeline
  |
- |---Data
+ |---Data (Extracted from Kaggle: https://www.kaggle.com/datasets/fatemehmehrparvar/lung-disease)
  |
  |---Models
  |     |
