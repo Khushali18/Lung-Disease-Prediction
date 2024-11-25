@@ -15,14 +15,14 @@ The **Plan.docx** outlines the action plan for the project.
 
 ## Folder Structure
 
-Unstructure_Data_Pipeline
- |
- |---Data (Extracted from Kaggle: https://www.kaggle.com/datasets/fatemehmehrparvar/lung-disease)
- |
- |---Models
- |     |
- |     |---CNN
- |     |
- |     |---ResNet
- |
- |---Preprocessing
+Unstructure_Data_Pipeline<br>
+ |<br>
+ |---Data (Extracted from Kaggle: https://www.kaggle.com/datasets/fatemehmehrparvar/lung-disease)<br>
+ |<br>
+ |---Models<br>
+ |     |<br>
+ |     |---CNN<br>
+ |     |<br>
+ |     |---ResNet<br>
+ |<br>
+ |---Preprocessing<br>
